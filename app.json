@@ -26,10 +26,6 @@
             "description": "API_HASH of your Telegram Account my.telegram.org/apps",
             "required": true
         },
-        "SESSION_STRING": {
-            "description": "Need for Userbot Module So u can execute .sh & .l cmd",
-            "required": false
-        },
         "SUDO_USERS_ID": {
             "description": "Sudo users have full access to everythin, don't trust anyone... ex:- 123456 654311 123456",
             "required": true
